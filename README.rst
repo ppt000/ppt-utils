@@ -1,5 +1,5 @@
 
-.. include:: wiki/Home.rest
+.. include:: Home.rest
 
 
 ppt_utils
