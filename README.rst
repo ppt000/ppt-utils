@@ -1,7 +1,3 @@
-
-.. include:: Home.rest
-
-
 ppt_utils
 ***********
 
